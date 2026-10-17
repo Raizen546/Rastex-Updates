@@ -2,11 +2,12 @@
 {
   "game": "Rastex Remake",
   "minecraft_version": "1.12.2",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "files": [
     {
       "path": "test.txt",
-      "url": "https://raw.githubusercontent.com/Raizen546/Rastex-Updates/refs/heads/main/manifest.json"
+      "url": "https://raw.githubusercontent.com/USERNAME/Rastex-Remake-Updates/main/game/test.txt",
+      "sha256": "3C2B9BED62DDFE02C83C609175FCE5C67AF4812CE23188C7B0F4B1281DB9FF52"
     }
   ]
 }

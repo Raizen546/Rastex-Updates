@@ -3,5 +3,10 @@
   "game": "Rastex Remake",
   "minecraft_version": "1.12.2",
   "version": "0.1.0",
-  "files": []
+  "files": [
+    {
+      "path": "test.txt",
+      "url": "https://raw.githubusercontent.com/USERNAME/Rastex-Remake-Updates/main/game/test.txt"
+    }
+  ]
 }
